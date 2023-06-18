@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Mar-jimenezz
-- 👀 I’m interested in yoga, spirituality, travel, food, conscious lifestyle 
+- 👀 I’m interested in web development (im a completely begginer) 
 - 🌱 I’m currently learning how to code from zero, I love learning new things!
 - 💞️ I’m looking to engage in the programming community and share my journey
 - 📫 How to reach me ... send me a message ! 
